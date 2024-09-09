@@ -1,5 +1,5 @@
 
-Desvendando atletas - imersao dev com google gemini
+Desvendando atletas - Imersão dev com google gemini
 
 Descrição: 
 Já imaginou ter todos os seus atletas brasileiros favoritos em um só lugar? Com essa aplicação incrível, você pode pesquisar por atletas, esportes e até mesmo palavras-chave relacionadas e encontrar um monte de informações legais!
